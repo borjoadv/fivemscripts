@@ -1,6 +1,5 @@
 # FiveM-Scripts
 Scripturi Facute sau Editate de mine si optimizate.
-Join West-Side Romania RPG --> discord.io/westsiderpg
 
 Copyright © Borjo [2021] All Rights Reserved
 This program is free software: you can redistribute it and/or modify
