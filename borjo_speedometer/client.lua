@@ -8,7 +8,7 @@ Citizen.CreateThread(function()
 			kmhMode = not kmhMode
 		end
 
-		playerPed = GetPlayerPed(-1)
+		playerPed = PlayerPedId()
 		if playerPed then
 			playerCar = GetVehiclePedIsIn(playerPed, false)
 			if playerCar and GetPedInVehicleSeat(playerCar, -1) == playerPed then
